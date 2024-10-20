@@ -100,7 +100,5 @@ class CounterTest {
 		int lines = cntr.getNumberLines();
 		assertEquals(CHARCOUNT_2, cntr.getNumberCharacters());
 	}
-	
-	//TODO: Agregar tests sobre clase main. (Deberían ser otra clase? "AppTest")
 
 }
