@@ -1,4 +1,4 @@
-package es.upm.grise.profundizacion.wc.test;
+package es.upm.grise.profundizacion.wc;
 
 import static org.junit.jupiter.api.Assertions.*;
 
